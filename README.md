@@ -8,5 +8,5 @@ The First part of the circuit consists of a bridge rectifier circuit which has f
 
 The above shown diagram is that of the internal circuit of the LA4440 IC with the audio input at pin 2. It is an Op-Amp circuit which multiplies the signal each time by a gain value until it reaches the output at pin 12. Pins 3, 6, 8, 14 are grounded because the second Op-Amp input circuit is not needed as there is only one signal. 4th pin is not connected as it is for the mute button. Pins 9 and 13 are Surge Protectors, 1 and 7 are negative feedbacks. A potentiometer is incorporated to control the volume. 6 Filters are used to improve Sound Quality.
 
-<img width="875" height="645" alt="image" src="https://github.com/user-attachments/assets/594e664a-4909-455b-8121-17c9528a90ad" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/594e664a-4909-455b-8121-17c9528a90ad" />
 
